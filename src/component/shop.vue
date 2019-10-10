@@ -181,9 +181,11 @@
 		border: 1px solid #ddd;
 		text-align: left;
 	}
-	.kc .psz{
+	
+	.kc .psz {
 		color: #000;
 	}
+	
 	.kc .psz td {
 		border-bottom: 1px solid #ddd;
 	}

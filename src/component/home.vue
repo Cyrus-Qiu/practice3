@@ -207,7 +207,6 @@
 	body {
 		font-size: 12px;
 	}
-	
 	.nav1.li1 {
 		margin: 0;
 		margin-left: 20px;
