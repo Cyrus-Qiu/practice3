@@ -133,8 +133,7 @@
 	};
 </script>
 
-<style>
-	
+<style>	
 	.nut-tab{
 		padding: 0;
 	}
